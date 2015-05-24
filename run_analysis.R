@@ -1,6 +1,7 @@
 ## run_analysis.R
 ## getting and cleaning data course project
 ## Steve Painter
+## 5/24/2015
 
 ## need dplyr
 library(dplyr)
